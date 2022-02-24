@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnackTruck</string>
+    <string name="item">Item</string>
+    <string name="text_snack_desc">picture of food</string>
+    <string name="text_button_snack_order">order food</string>
+    <string name="order">Order</string>
+    <string name="text_dialog_title">Confirm Order</string>
+</resources>
